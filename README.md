@@ -14,7 +14,7 @@
 | ------------- | ------------- |
 | UI  | Tiru, Lokesh, Harikrishna, jagan  |
 | Flask  | Hari, Siva,Nagesh,Anji,Bhaskar  |
-| DB with python  | Sree,Jaga,Charan,LokeshP  |
+| DB with python  | Sree,Jaga,Charan,LokeshP,Kishore  |
 | QA | Sree,Kumar  |
 | SCM/Code Review | Ravi,Sai  |
 | Scrum  | Gangi  |
@@ -44,6 +44,53 @@ Tasks - OnGoing and Status
    - [ ] Tiru
    - [ ] Lokesh
    - [ ] Jagan
+   - [x] Charan
+   - [ ] Lokesh.p
+   - [x] Hemanth
+   - [ ] Anji
+   - [x] Nagesh
+   - [ ] Bhaskar
+   - [x] Gangi
+   - [x] Sai
+   - [x] Ravi
+   - [x] Jagadeesh
+   - [ ] Siva
+   - [ ] Kishore
+  
+
+
+
+* UI - 
+  * Hemanth - Done 
+  * Tiru - Done 
+  * Harikrishna - Pending
+  * Jagan - Pending
+
+* Python - Mysql -  Pending 
+  * Lokepsh.P - Pending
+  * Charan - Pending 
+  * Srikanth - Pending
+  * Jagadish - Done 
+
+* Flask 
+  * Nagesh - Done 
+  * Bhaskar - Done 
+  * Siva - Pending
+  * Anji - Pending
+  * Hari2 - Pending
+  * Siva - Done 
+  
+* SCM
+  * Sai - Done
+
+RoundThe Table Discussion
+
+   - [ ] Hari
+   - [ ] HariKrishna
+   - [ ] Srikanth
+   - [ ] Tiru
+   - [ ] Lokesh
+   - [ ] Jagan
    - [ ] Charan
    - [ ] Lokesh.p
    - [ ] Hemanth
@@ -53,6 +100,24 @@ Tasks - OnGoing and Status
    - [ ] Gangi
    - [ ] Sai
    - [ ] Ravi
+   - [ ] Jagadeesh
+   - [ ] Siva
+   - [ ] Kishore
+  
+
+
+
+
+
+#### Day-2 
+* Write a python program for the telnet test 
+     ask the ip address and port and do tht telnet 
+
+
+
+
+
+
   
 
 
