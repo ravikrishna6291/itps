@@ -1,3 +1,6 @@
+## hello 
+
+
 # ProjectName:  itps
 #### Object: Billing api dashboard
 
@@ -40,8 +43,8 @@ Tasks - OnGoing and Status
 - [ ] Onboarding to the SCM and checkout the own branch (https)
    - [ ] Hari
    - [ ] HariKrishna
-   - [ ] Srikanth
-   - [ ] Tiru
+   - [x] Srikanth
+   - [x] Tiru
    - [ ] Lokesh
    - [ ] Jagan
    - [x] Charan
@@ -49,13 +52,16 @@ Tasks - OnGoing and Status
    - [x] Hemanth
    - [ ] Anji
    - [x] Nagesh
-   - [ ] Bhaskar
+   - [x] Bhaskar
    - [x] Gangi
    - [x] Sai
    - [x] Ravi
    - [x] Jagadeesh
-   - [ ] Siva
+   - [x] Siva
    - [ ] Kishore
+   - [ ] Babu
+   - [ ] Mahesh
+   - [ ] Prasad 
   
 
 
@@ -83,13 +89,51 @@ Tasks - OnGoing and Status
 * SCM
   * Sai - Done
 
-RoundThe Table Discussion
+### RoundThe Table Discussion
+
+   - [x] Hari
+   - [x] HariKrishna
+   - [x] Srikanth
+   - [x] Tiru
+   - [x] Lokesh
+   - [ ] Jagan
+   - [x] Charan
+   - [x] Lokesh.p
+   - [x] Hemanth
+   - [x] Anji
+   - [x] Nagesh
+   - [x] Bhaskar
+   - [x] Gangi
+   - [x] Sai
+   - [x] Ravi
+   - [x] Jagadeesh
+   - [x] Siva
+   - [ ] Kishore
+  
+
+
+
+
+
+#### Day-2 
+* Write a python program for the telnet test 
+     ask the ip address and port and do tht telnet 
+
+* EKS Cluster 2 nodes - Terraform 
+* Jenkins - maven, docker , kubectl,git,terraform
+* show your repo 
+    terraform - eks / vpc 
+
+
+
+
+### RoundThe Table Discussion
 
    - [ ] Hari
    - [ ] HariKrishna
    - [ ] Srikanth
-   - [ ] Tiru
-   - [ ] Lokesh
+   - [x] Tiru
+   - [x] Lokesh
    - [ ] Jagan
    - [ ] Charan
    - [ ] Lokesh.p
@@ -103,20 +147,11 @@ RoundThe Table Discussion
    - [ ] Jagadeesh
    - [ ] Siva
    - [ ] Kishore
+   - [ ] Babu
+   - [ ] Mahesh
+   - [ ] Prasad 
+   - [ ] Chamundeswari
   
-
-
-
-
-
-#### Day-2 
-* Write a python program for the telnet test 
-     ask the ip address and port and do tht telnet 
-
-
-
-
-
 
   
 
