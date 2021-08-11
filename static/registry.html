@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: DarkCyan;
+}
+/* Full-width input fields */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding:18px;
+  margin: 5px 0 22px 0;
+  display: Silver;
+  border: none;
+  background: #f1f1f1;
+}
+
+</style>
+</head>
+<body>
+
+<form action="/action_page.php">
+  <div class="container">
+    <h1>Account Information</h1>
+    <p>Please fill in this form to create an normal user account.</p>
+    <hr>
+   <label for="Username"><b>User name</b></label>
+    <input type="text" placeholder="Enter username" name="user" id="user" required>
+
+    <label for="Acesskey"><b>Acesskey</b></label>
+    <input type="text" placeholder="Enter Accesskey" name="Akey" id="akey" required>
+
+    <label for="Secretkey"><b>Secretkey</b></label>
+    <input type="text" placeholder="Enter Secretkey" name="Skey" id="Skey" required>
+
+    <label for="Region"><b>Region</b></label>
+    <input type="text" placeholder="Enter Region" name="Reg" id="Reg"
+    <hr>
+
+
+    <button type="submit" class="registerbtn">save</button>
+  </div>
+
+
+</form>
+
+</body>
